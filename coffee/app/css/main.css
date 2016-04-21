@@ -1,0 +1,27 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  color: #686868;
+}
+
+h1 {
+  font-size: 48px;
+}
+
+p {
+  font-size: 16px;
+}
+
+input {
+  line-height: 1.5em;
+  font-size: 20px;
+  text-align: center;
+  color: grey;
+}
+
+input:focus {
+  color: blue;
+}
